@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: white;
+}
+h3{
+    color: white;
+    align-items: center;
+}
+.natureImg{
+    border: 5px solid white;
+    
+}
+.divImg {
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+    border-color:rgb(255, 249, 249);
+    align-items: center;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Caveat', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Libre Baskerville', serif; 
+}
